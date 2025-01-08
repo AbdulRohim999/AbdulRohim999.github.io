@@ -1,2 +1,2 @@
 # AplikasiPondokPesantren
-Sebuah sistem digital yang dirancang untuk mendukung kegiatan operasional di pondok pesantren
+Sebuah sistem digital yang dirancang untuk mendukung administrasi di pondok pesantren
