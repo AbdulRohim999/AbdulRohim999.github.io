@@ -1,79 +1,83 @@
-📌 AplikasiPondokPesantren
+# 📌 AplikasiPondokPesantren
 
 Sebuah sistem digital yang dirancang untuk mendukung administrasi di pondok pesantren.
 
-🚀 Teknologi yang Digunakan
+---
 
-🐘 PHP - Bahasa pemrograman dalam pengembangan aplikasi.
+## 🚀 Teknologi yang Digunakan
 
-🖥️ HTML - Untuk struktur dasar halaman web.
+- 🐘 **PHP** - Bahasa pemrograman dalam pengembangan aplikasi.
+- 🖥️ **HTML** - Untuk struktur dasar halaman web.
+- 🎨 **CSS** - Styling dan tataletak tampilan halaman.
+- 🗄️ **MySQL** - Database penyimpanan data.
 
-🎨 CSS - Styling dan tataletak tampilan halaman.
+---
 
-🗄️ MySQL - Database penyimpanan data.
+## 🔧 Instalasi dan Konfigurasi
 
-🔧 Instalasi dan Konfigurasi
-
-📥 Clone repository
-
+### 📥 Clone repository
+```bash
 git clone https://github.com/username/nama-repo.git
+```
 
-📂 Pindahkan ke folder proyek
-
+### 📂 Pindahkan ke folder proyek
+```bash
 cd nama-repo
+```
 
-⚙️ Jalankan XAMPP dan Aktifkan Apache & MySQL
+### ⚙️ Jalankan XAMPP dan Aktifkan Apache & MySQL
 
-🗃️ Import database
+### 🗃️ Import database
+1. Buka **phpMyAdmin**
+2. Buat **database baru**
+3. Import file **SQL** yang ada di folder `database`
 
-Buka phpMyAdmin
+### 🔑 Konfigurasi koneksi database
+1. Buka file `config.php`
+2. Sesuaikan dengan konfigurasi database lokal Anda
 
-Buat database baru
+---
 
-Import file SQL yang ada di folder database
+## 📌 Cara Menggunakan
 
-🔑 Konfigurasi koneksi database
+1. 🔥 Jalankan **XAMPP** dan pastikan Apache & MySQL aktif
+2. 🌐 Buka browser dan akses:
+   ```
+   http://localhost/nama-aplikasi/
+   ```
+3. ✅ Mulai gunakan aplikasi sesuai kebutuhan
 
-Buka file config.php
+---
 
-Sesuaikan dengan konfigurasi database lokal Anda
+## 🛠 Fitur Utama
 
-📌 Cara Menggunakan
+### 👤 User
+- 📜 Melihat **Informasi** Mengenai Pondok Pesantren
+- 📅 Melihat **Program-program** yang ada pada Pesantren
+- 📝 Melakukan **Pendaftaran**
 
-🔥 Jalankan XAMPP dan pastikan Apache & MySQL aktif
+### 🔑 Admin
+- 🛠️ Melakukan **perubahan** pada data siswa di pesantren
+- 📥 **Menerima data** jika ada siswa yang mendaftar
 
-🌐 Buka browser dan akses:
+---
 
-http://localhost/nama-aplikasi/
+## 🤝 Kontribusi
 
-✅ Mulai gunakan aplikasi sesuai kebutuhan
+Jika ingin berkontribusi, silakan **fork** repository ini dan buat **pull request** dengan fitur atau perbaikan baru.
 
-🛠 Fitur Utama
+---
 
-👤 User
+## 📄 Lisensi
 
-📜 Melihat Informasi Mengenai Pondok Pesantren
+Proyek ini dilisensikan di bawah **MIT License**.
 
-📅 Melihat Program-program yang ada pada Pesantren
+---
 
-📝 Melakukan Pendaftaran
-
-🔑 Admin
-
-🛠️ Melakukan perubahan pada data siswa di pesantren
-
-📥 Menerima data jika ada siswa yang mendaftar
-
-🤝 Kontribusi
-
-Jika ingin berkontribusi, silakan fork repository ini dan buat pull request dengan fitur atau perbaikan baru.
-
-📄 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
-
-📞 Kontak
+## 📞 Kontak
 
 Jika ada pertanyaan atau saran, silakan hubungi:
 
-📧 Email: abdulrohim100699@gmail.com📌 GitHub: AbdulRohim999
+📧 **Email:** abdulrohim100699@gmail.com  
+📌 **GitHub:** [AbdulRohim999](https://github.com/AbdulRohim999)
+
