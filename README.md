@@ -57,7 +57,7 @@ cd nama-repo
 - 📝 Melakukan **Pendaftaran**
 
 ### 🔑 Admin
-- 🛠️ Melakukan **perubahan** pada data siswa di pesantren
+- 🛠️ Melihat **Detail dan Menghapus** data siswa di pesantren
 - 📥 **Menerima data** jika ada siswa yang mendaftar
 
 ---
